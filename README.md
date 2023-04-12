@@ -19,7 +19,7 @@ SemiProject
 - 황세원
 
 ### :smoking:기술
-- IntelliJ, HTML, CSS, JavaScript, mustache, Ajax, jQuery
+- HTML, CSS, JavaScript, mustache, Ajax, jQuery
 - Spring Boot, Oracle,
 
 ### :clipboard:주요 기능
