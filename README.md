@@ -1,7 +1,7 @@
 # mangoMusic
 SemiProject
 
-### :sparkles:소개
+### :sparkles:소개 ⚫
 망고뮤직(Mango Music)은 음악을 듣는 것을 넘어 구매하여 소유하는 개념에서 출발한 프로젝트 입니다.
 뮤직 플레이어 + 소유권 판매, 구매 플랫폼
 
